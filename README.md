@@ -1,6 +1,8 @@
-testadmob
-=========
+test-admob
+basado en testadmob
+===================
 
+tratando de aprender a utilizar cordova plugin admob
 a test project for cordova plugin admob
 
 it's quite easy to create this project with cordova command line tool:
